@@ -1,3 +1,5 @@
+![Cover](images/cover.jpg)
+
 # Phantom VPN - Simplify Your VPN Experience
 
 Phantom VPN is an intuitive application designed to enhance your VPN experience by providing a seamless connection between VPN providers and their customers. With Phantom VPN, users can easily sign up and log in to access the servers provided by their VPN provider. It offers a range of features to ensure a secure and convenient VPN usage.
